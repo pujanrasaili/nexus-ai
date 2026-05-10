@@ -6,7 +6,7 @@ A real AI chatbot powered by **Groq (Llama 3)** with a premium dark UI — built
 
 ## 🌐 Live Demo
 
-👉 [nexus-ai.vercel.app](https://nexus-ai.vercel.app)
+👉 [nexus-ai-sigma-pearl.vercel.app](https://nexus-ai-sigma-pearl.vercel.app)
 
 ## ✨ Features
 
