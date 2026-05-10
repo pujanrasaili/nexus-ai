@@ -1,16 +1,56 @@
-# React + Vite
+# ✦ NexusAI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Ask me anything. I actually know the answer.
 
-Currently, two official plugins are available:
+A real AI chatbot powered by **Groq (Llama 3)** with a premium dark UI — built with React + Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+👉 [nexus-ai.vercel.app](https://nexus-ai.vercel.app)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🤖 Real AI responses powered by Llama 3 via Groq
+- 💬 Full conversation memory
+- ⌨️ Typing indicator
+- 🟣 Premium dark UI with violet accents
+- 💡 Quick suggestion buttons
+- ⏰ Message timestamps
+- 📱 Fully responsive
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Groq API](https://groq.com/) — Llama 3 model
+- Pure CSS (no UI libraries)
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/pujanrasaili/nexus-ai.git
+
+# Go into the folder
+cd nexus-ai
+
+# Install dependencies
+npm install
+
+# Add your Groq API key
+echo "VITE_GROQ_API_KEY=your_key_here" > .env
+
+# Start dev server
+npm run dev
+```
+
+## 🔑 Environment Variables
+
+Create a `.env` file in the root:
+VITE_GROQ_API_KEY=your_groq_api_key
+
+Get a free API key at [console.groq.com](https://console.groq.com)
+
+## 📄 License
+
+MIT — free to use and modify.
