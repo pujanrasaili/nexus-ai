@@ -31,6 +31,9 @@ A real AI chatbot powered by **Groq (Llama 3)** with a premium dark UI — built
 # Clone the repo
 git clone https://github.com/pujanrasaili/nexus-ai.git
 
+## 👨‍💻 Author
+
+**Pujan Rasaili**
 # Go into the folder
 cd nexus-ai
 
