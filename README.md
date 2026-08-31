@@ -54,6 +54,9 @@ VITE_GROQ_API_KEY=your_groq_api_key
 
 Get a free API key at [console.groq.com](https://console.groq.com)
 
+## 👨‍💻 Author
+**Pujan Rasaili**
+
 ## 📄 License
 
 MIT — free to use and modify.
